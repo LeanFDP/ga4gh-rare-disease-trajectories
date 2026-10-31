@@ -11,8 +11,8 @@
 
 
 # Case submissions for: test
-# Source: https://github.com/StaticFDP/ga4gh-rare-disease-trajectories/issues?q=label%3Adisease-case
-# Auto-generated 2026-10-30
+# Source: https://github.com/LeanFDP/ga4gh-rare-disease-trajectories/issues?q=label%3Adisease-case
+# Auto-generated 2026-10-31
 
 # Case #3
 <https://fdp.semscape.org/ga4gh-rare-disease-trajectories/diseases/disease-test/case/3> a dcat:Dataset ;
@@ -21,5 +21,5 @@
     dcterms:description "test"@en ;
     dcterms:created   "2026-04-16"^^xsd:date ;
     dcterms:source    "GA4GH BYOD web form (ORCID-authenticated)" ;
-    dcat:landingPage  <https://github.com/StaticFDP/ga4gh-rare-disease-trajectories/issues/3> ;
+    dcat:landingPage  <https://github.com/LeanFDP/ga4gh-rare-disease-trajectories/issues/3> ;
     dcterms:creator <https://orcid.org/0000-0001-9773-4008> .

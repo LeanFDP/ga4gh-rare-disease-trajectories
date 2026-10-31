@@ -11,8 +11,8 @@
 
 
 # Case submissions for: Duchenne muscular dystrophy (DMD)
-# Source: https://github.com/StaticFDP/ga4gh-rare-disease-trajectories/issues?q=label%3Adisease-case
-# Auto-generated 2026-10-30
+# Source: https://github.com/LeanFDP/ga4gh-rare-disease-trajectories/issues?q=label%3Adisease-case
+# Auto-generated 2026-10-31
 
 # Case #2
 <https://fdp.semscape.org/ga4gh-rare-disease-trajectories/diseases/orpha-98895/case/2> a dcat:Dataset ;
@@ -21,6 +21,6 @@
     dcterms:description "The Duchenne Data Platform (DDP) aggregates longitudinal patient data for Duchenne muscular dystrophy across European patient communities. The platform captures clinical measurements (6-minute walk test, North Star Ambulatory Assessment, pulmonary function tests), genetic data (exon deletions, point mutations, duplications), and treatment history (corticosteroids, exon skipping therapies, gene therapy trials). Disease trajectory modeling focuses on ambulatory to non-ambulatory transition and cardiac/respiratory decline. Data follows EJP-RD data model with FAIR Data Point v1.17.1 for metadata exposure. Disease classification uses ORDO:Orphanet_98895 for DMD and ORDO:Orphanet_98896 for Becker MD."@en ;
     dcterms:created   "2026-04-12"^^xsd:date ;
     dcterms:source    "GA4GH BYOD web form (ORCID-authenticated)" ;
-    dcat:landingPage  <https://github.com/StaticFDP/ga4gh-rare-disease-trajectories/issues/2> ;
+    dcat:landingPage  <https://github.com/LeanFDP/ga4gh-rare-disease-trajectories/issues/2> ;
     dcat:keyword "Duchenne Data Platform (Duchenne Parent Project / FAIR Data Systems S.L.)"@en ;
     dcterms:creator [ foaf:name "Duchenne Parent Project — World Duchenne Organization" ] .
